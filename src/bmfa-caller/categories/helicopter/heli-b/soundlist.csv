@@ -1,0 +1,11 @@
+filename,text
+helicopter/heli-b/rst.wav,"Helicopter B certificate, sequence reset."
+helicopter/heli-b/mnvr1.wav,"Perform the hovering M maneuver. Hover at eye level and trace the M pattern, without turning the helicopter."
+helicopter/heli-b/mnvr2.wav,"Perform the top hat maneuver. Hover forward 5 metres, climb 2 metres, cross in front of the pilot, descend 2 metres, then hover forward 5 metres to exit."
+helicopter/heli-b/mnvr3.wav,Take off and climb at an angle greater than 45 degrees to a safe altitude. Transition to forward flight.
+helicopter/heli-b/mnvr4.wav,Fly a left hand circuit. Longest legs must extend over at least 50 metres.
+helicopter/heli-b/mnvr5.wav,Fly a right hand circuit. Longest legs must extend over at least 50 metres.
+helicopter/heli-b/mnvr6.wav,"Perform a stall turn. Pull up to a near vertical climb. At the top, pivot 180 degrees about the vertical axis. Descend on the reciprocal heading."
+helicopter/heli-b/mnvr7.wav,"Perform a 20-second nose-in hover, at between eye level and 3 metres height. Hold the model steady for at least 20 seconds."
+helicopter/heli-b/mnvr8.wav,Perform a double stall turn with opposite rotation. The second stall turn must be in the opposite direction to the first.
+helicopter/heli-b/mnvr9.wav,Perform an approach at approximately 45 degrees to the vertical. Land within the pre-determined two metre square.

@@ -1,0 +1,32 @@
+{
+  "key": "helicopter",
+  "name": "Helicopter",
+  "certs": [
+    {
+      "key": "heli-a",
+      "name": "A Certificate",
+      "reset_tts": "Helicopter A certificate, sequence reset.",
+      "figures": [
+        {"file": "mnvr1", "label": "Maneuver 1", "tts": "Maneuver one. Update with BMFA Helicopter A certificate requirement."},
+        {"file": "mnvr2", "label": "Maneuver 2", "tts": "Maneuver two. Update with BMFA Helicopter A certificate requirement."},
+        {"file": "mnvr3", "label": "Maneuver 3", "tts": "Maneuver three. Update with BMFA Helicopter A certificate requirement."}
+      ]
+    },
+    {
+      "key": "heli-b",
+      "name": "B Certificate",
+      "reset_tts": "Helicopter B certificate, sequence reset.",
+      "figures": [
+        {"file": "mnvr1", "label": "Hovering M",           "tts": "Perform the hovering M maneuver. Hover at eye level and trace the M pattern, without turning the helicopter."},
+        {"file": "mnvr2", "label": "Top Hat",              "tts": "Perform the top hat maneuver. Hover forward 5 metres, climb 2 metres, cross in front of the pilot, descend 2 metres, then hover forward 5 metres to exit."},
+        {"file": "mnvr3", "label": "Takeoff & Climb",      "tts": "Take off and climb at an angle greater than 45 degrees to a safe altitude. Transition to forward flight."},
+        {"file": "mnvr4", "label": "Left Hand Circuit",    "tts": "Fly a left hand circuit. Longest legs must extend over at least 50 metres."},
+        {"file": "mnvr5", "label": "Right Hand Circuit",   "tts": "Fly a right hand circuit. Longest legs must extend over at least 50 metres."},
+        {"file": "mnvr6", "label": "Stall Turn",           "tts": "Perform a stall turn. Pull up to a near vertical climb. At the top, pivot 180 degrees about the vertical axis. Descend on the reciprocal heading."},
+        {"file": "mnvr7", "label": "Nose-In Hover",        "tts": "Perform a 20-second nose-in hover, at between eye level and 3 metres height. Hold the model steady for at least 20 seconds."},
+        {"file": "mnvr8", "label": "Double Stall Turn",    "tts": "Perform a double stall turn with opposite rotation. The second stall turn must be in the opposite direction to the first."},
+        {"file": "mnvr9", "label": "45° Approach & Land", "tts": "Perform an approach at approximately 45 degrees to the vertical. Land within the pre-determined two metre square."}
+      ]
+    }
+  ]
+}

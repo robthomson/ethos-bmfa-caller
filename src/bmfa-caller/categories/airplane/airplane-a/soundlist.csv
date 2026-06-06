@@ -1,0 +1,8 @@
+filename,text
+airplane/airplane-a/rst.wav,"Airplane A certificate, sequence reset."
+airplane/airplane-a/mnvr1.wav,"Take off and complete a circuit, overflying the take-off area."
+airplane/airplane-a/mnvr2.wav,"Fly a figure of eight course, with the cross-over point in front of the pilot. Height to be constant."
+airplane/airplane-a/mnvr3.wav,Fly a rectangular circuit and approach with appropriate use of throttle. Perform a landing on the designated landing area.
+airplane/airplane-a/mnvr4.wav,"Take off and complete a second circuit, overflying the take-off area."
+airplane/airplane-a/mnvr5.wav,"Fly a rectangular circuit at constant height, in the opposite direction to the landing circuit."
+airplane/airplane-a/mnvr6.wav,"Perform a simulated dead stick landing with engine at idle, beginning at approximately 200 feet over the take-off area. Land safely on the designated landing area."

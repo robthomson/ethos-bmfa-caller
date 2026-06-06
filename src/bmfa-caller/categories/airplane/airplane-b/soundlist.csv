@@ -1,0 +1,11 @@
+filename,text
+airplane/airplane-b/rst.wav,"BMFA Airplane B certificate, sequence reset."
+airplane/airplane-b/mnvr1.wav,"Fly a figure of eight course: with the cross over point in front of pilot, height to be constant."
+airplane/airplane-b/mnvr2.wav,"Fly into wind and complete one inside loop, managing throttle carefully on the exit of the loop."
+airplane/airplane-b/mnvr3.wav,"Fly downwind and complete one outside loop; once again, managing the throttle carefully."
+airplane/airplane-b/mnvr4.wav,Complete two consecutive rolls into wind; with little hesitation and no serious loss of height.
+airplane/airplane-b/mnvr5.wav,Complete two consecutive rolls downwind; using the opposite direction of roll rotation; with little hesitation and no serious loss of height.
+airplane/airplane-b/mnvr6.wav,"Complete a stall turn, either left or right, with direction of stall away from the flight line."
+airplane/airplane-b/mnvr7.wav,"Gain height, and perform a three-turn spin, with initial heading and recovery heading into wind."
+airplane/airplane-b/mnvr8.wav,Fly a rectangular landing approach and overshoot with an abort from below 10 feet.
+airplane/airplane-b/mnvr9.wav,"Fly a rectangular circuit in the opposite direction, at a constant height of not more than 40 feet."

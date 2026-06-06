@@ -1,0 +1,8 @@
+tqdm>=4.66
+pyserial>=3.5
+hid>=1.0.6
+debugpy>=1.8
+pywin32>=306; platform_system == "Windows"
+pyinstaller>=6.0; platform_system == "Darwin"
+google-cloud-texttospeech>=2.14
+sox>=1.4
